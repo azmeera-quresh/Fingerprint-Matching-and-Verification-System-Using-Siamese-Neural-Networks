@@ -1,0 +1,11 @@
+numpy==1.26.4
+matplotlib
+scikit-learn
+imgaug
+opencv-python
+tensorflow
+keras
+imageio
+scikit-image
+scipy
+jupyter
